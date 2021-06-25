@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "532625586045",
+    "firebase_url": "https://videoapp-3ead8-default-rtdb.firebaseio.com",
+    "project_id": "videoapp-3ead8",
+    "storage_bucket": "videoapp-3ead8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532625586045:android:ce1e90c62e708f6ee57e14",
+        "android_client_info": {
+          "package_name": "com.example.videoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532625586045-j9vl9blq0ohhfrtq1e7pcmhi2g134p10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4S78kPLwmyK2fNFBQgSfkGkeoeCRLRXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532625586045-j9vl9blq0ohhfrtq1e7pcmhi2g134p10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532625586045:android:4f808b70b5c64fe0e57e14",
+        "android_client_info": {
+          "package_name": "com.jmm.brsap.youtubeclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532625586045-j9vl9blq0ohhfrtq1e7pcmhi2g134p10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4S78kPLwmyK2fNFBQgSfkGkeoeCRLRXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532625586045-j9vl9blq0ohhfrtq1e7pcmhi2g134p10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
